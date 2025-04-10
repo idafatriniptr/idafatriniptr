@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi there! I'm Rini, a data analyst with approximately one year of experience in analyzing data and providing insights that support strategic decision-making. Throughout my career, I’ve developed strong skills in data processing and analysis using tools like Excel, SQL, and Python.
+
 <!--
 **idafatriniptr/idafatriniptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
